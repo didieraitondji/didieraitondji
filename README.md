@@ -2,8 +2,6 @@
 # Je suis AITONDJI Tolome Didier
 <hr>
 
-# 👋 AITONDJI Tolome Didier
-
 **Développeur Web | Passionné par les Systèmes d'Information et l'Automatisation**  
 
 ---
